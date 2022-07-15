@@ -7,6 +7,7 @@ import java.util.Base64.Encoder;
 public class PasswordED {
 
 	int a=20;
+	String name="Quazi";
 
 	public static String encode(String str) {
 		
