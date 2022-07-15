@@ -8,6 +8,7 @@ public class PasswordED {
 
 	int a=20;
 	String name="Quazi";
+	double price=10.50;
 
 	public static String encode(String str) {
 		
