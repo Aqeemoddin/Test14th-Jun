@@ -6,6 +6,8 @@ import java.util.Base64.Encoder;
 
 public class PasswordED {
 
+	int a=20;
+
 	public static String encode(String str) {
 		
 		Encoder encoder=Base64.getEncoder();
